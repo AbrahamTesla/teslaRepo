@@ -10,7 +10,7 @@ Features
 **Tailwind CSS:** Modern, utility-first CSS framework for sleek styling
 
 Top Half
-![Alt text](https://github.com/AbrahamTesla/teslaRepo/blob/master/images/MainPageTop.jpg)![image](https://github.com/user-attachments/assets/7adc4a80-d7fa-4a27-aa2b-947b1e45d469)
+![Alt text](https://github.com/AbrahamTesla/teslaRepo/blob/master/images/MainPageTop.jpg)
 
 Bottom Half
-![Alt text](https://github.com/AbrahamTesla/teslaRepo/blob/master/images/bottomHalf.jpg![image](https://github.com/user-attachments/assets/c2c08d2a-76dc-4005-ab95-d758d8ebeeb0)
+![Alt text](https://github.com/AbrahamTesla/teslaRepo/blob/master/images/bottomHalf.jpg)
