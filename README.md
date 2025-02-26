@@ -1,5 +1,6 @@
-#Tesla Website Clone
-Overview
+#Tesla Website Clone - https://teslarepo.netlify.app/
+
+**Overview**
 A responsive Tesla website clone built with vanilla JavaScript and Tailwind CSS. This project demonstrates interactive user interface elements that allow customers to customize their Tesla experience.
 Features
 
